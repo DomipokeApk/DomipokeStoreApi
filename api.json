@@ -1,3 +1,14 @@
 {
-
+    "title":"Domipoke Store",
+    "apps": [
+        {"title": "Comicon2024", "details":"App creata per uso personale, non destinata alla vendita. Tutte le informazioni sono estratte dal sito \"napoli.comicon.it\"","versions":{
+            "1.0.0": "https://github.com/DomipokeApk/Comicon2024/releases/download/v1.0.0/Comicon2024.apk",
+            "1.1.0": "https://github.com/DomipokeApk/Comicon2024/releases/download/v1.1.0/Comicon2024.apk",
+            "1.2.0": "https://github.com/DomipokeApk/Comicon2024/releases/download/v1.2.0/Comicon2024.apk"
+        }, "icon": "https://i.imgur.com/rKVNrMX.jpeg"},
+        {"title": "PingPongScoreboard", "versions":{
+            "0.1.0": "https://github.com/DomipokeApk/PingPongScoreboard/releases/download/release2release/Pingpongscoreboard.apk",
+            "0.2.0": "https://github.com/DomipokeApk/PingPongScoreboard/releases/download/release/PingPongScoreboard.apk"
+        }, "icon": ""}
+    ]
 }
